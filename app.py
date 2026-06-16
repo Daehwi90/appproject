@@ -17,7 +17,7 @@ if st.button("Send balloons!"):
     st.balloons()
 
 
-    import streamlit as st
+
 import pandas as pd
 q
 import numpy as np
